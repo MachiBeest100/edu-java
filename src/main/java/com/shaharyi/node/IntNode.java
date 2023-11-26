@@ -1,5 +1,3 @@
-package com.shaharyi.node;
-
 public class IntNode {
   private int value;
   private IntNode next;
